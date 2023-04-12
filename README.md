@@ -10,7 +10,7 @@ This is a program that creates a representation of multiplication tables on a mo
 3. Run `main.py`
 ## Requirements
 - Python 3.7
-- Python turtle library
+- Python `turtle` library
 ## Usage
 You have to type the number of points of the circle and the multiplication table.
 
